@@ -10,7 +10,7 @@ O objetivo deste projeto é proporcionar uma solução simples e eficiente para 
 
 - **Cadastro de Transações:** Os usuários podem adicionar novas transações, especificando se são despesas ou receitas, a descrição e o valor.
 
-- **Listagem de Transações:** Existe uma página dedicada à exibição das transações cadastradas, onde é possível visualizar e filtrar as informações.
+- **Listagem de Transações:** Existe uma página dedicada à exibição das transações cadastradas, onde é possível visualizar, editar e deletar as informações.
 
 - **Resumo Financeiro:** Uma seção de resumo fornece uma visão geral das despesas e receitas totais, facilitando o acompanhamento do orçamento.
 
