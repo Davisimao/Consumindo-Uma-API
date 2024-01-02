@@ -22,8 +22,8 @@ O objetivo deste projeto é proporcionar uma solução simples e eficiente para 
 
 ## Como Usar
 
-1. Clone este repositório: `git clone https://github.com/Davisimao/Consumindo-Uma-API.git`
-2. Navegue até o diretório do projeto: `cd Consumindo-Uma-API`
+1. Clone este repositório: `git clone https://github.com/Davisimao/Controle-de-Financas.git`
+2. Navegue até o diretório do projeto: `cd Controle-de-Financas`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor json-server: `npm run serve`
 5. Abra o arquivo `index.html` no seu navegador.
