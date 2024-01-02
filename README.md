@@ -16,7 +16,7 @@ O objetivo deste projeto é proporcionar uma solução simples e eficiente para 
 
 ## Tecnologias Utilizadas
 
-- **Javascript:** Linguagem de programação utilizada para a lógica do front-end.
+- **Javascript:** A linguagem de programação principal para a lógica do aplicativo.
 - **HTML e CSS:** Utilizados para a estruturação e estilização da interface do usuário.
 - **json-server:** Utilizado como backend para armazenamento e manipulação dos dados.
 
